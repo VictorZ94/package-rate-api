@@ -1,0 +1,178 @@
+{
+  "country": "COL",
+  "reference": "Auxilio de transporte",
+  "nomenclatura": "AUX_TRANS",
+  "category": "labor",
+  "aux_trans": [
+    {
+      "year": 1990,
+      "value": 9500,
+      "value_usd": 6.50
+    },
+    {
+      "year": 1991,
+      "value":	11000,
+      "value_usd": 8.40
+    },
+    {
+      "year": 1992,
+      "value": 13000,
+      "value_usd": 9.70
+    },
+    {
+      "year": 1993,
+      "value": 15500,
+      "value_usd": 11.50
+    },
+    {
+      "year": 1994,
+      "value": 18500,
+      "value_usd": 14.10
+    },
+    {
+      "year": 1995,
+      "value": 21500,
+      "value_usd": 17.20
+    },
+    {
+      "year": 1996,
+      "value": 25000,
+      "value_usd": 20.50
+    },
+    {
+      "year": 1997,
+      "value": 27500,
+      "value_usd": 22.10
+    },
+    {
+      "year": 1998,
+      "value": 29500,
+      "value_usd": 23.40
+    },
+    {
+      "year": 1999,
+      "value": 31500,
+      "value_usd": 26.60
+    },
+    {
+      "year": 2000,
+      "value": 33500,
+      "value_usd": 	15.50
+    },
+    {
+      "year": 2001,
+      "value": 35500,
+      "value_usd":	12.70
+    },
+    {
+      "year": 2002,
+      "value": 38500,
+      "value_usd": 13.10
+    },
+    {
+      "year": 2003,
+      "value":	42000,
+      "value_usd": 14.40
+    },
+    {
+      "year": 2004,
+      "value": 45500,
+      "value_usd": 17.70
+    },
+    {
+      "year": 2005,
+      "value":	49500,
+      "value_usd":	20.80
+    },
+    {
+      "year": 2006,
+      "value":	53500,
+      "value_usd":	23.90
+    },
+    {
+      "year": 2007,
+      "value":	56000,
+      "value_usd":	28.10
+    },
+    {
+      "year": 2008,
+      "value":	58500,
+      "value_usd": 35.90
+    },
+    {
+      "year": 2009,
+      "value":	59500,
+      "value_usd": 30.40
+    },
+    {
+      "year": 2010,
+      "value": 63600,
+      "value_usd": 33.50
+    },
+    {
+      "year": 2011,
+      "value":	67800,
+      "value_usd": 37.10
+    },
+    {
+      "year": 2012,
+      "value": 70500,
+      "value_usd":38.60
+    },
+    {
+      "year": 2013,
+      "value":	74000,
+      "value_usd":	38.20
+    },
+    {
+      "year": 2014,
+      "value":	75000,
+      "value_usd": 31.20
+    },
+    {
+      "year": 2015,
+      "value": 77700,
+      "value_usd": 23.70
+    },
+    {
+      "year": 2016,
+      "value": 83140,
+      "value_usd": 27.50
+    },
+    {
+      "year": 2017,
+      "value":	88211,
+      "value_usd":	29.40
+    },
+    {
+      "year": 2018,
+      "value":	88211,
+      "value_usd":	29.40
+    },
+    {
+      "year": 2019,
+      "value": 97032,
+      "value_usd": 30.12
+    },
+    {
+      "year": 2020,
+      "value":	102854,
+      "value_usd":	27.80
+    },
+    {
+      "year": 2021,
+      "value": 106454,
+      "value_usd":	28.60
+    },
+    {
+      "year": 2022,
+      "value":	117172,
+      "value_usd":	0
+    },
+    {
+      "year": 2023,
+      "value": 140606,
+      "value_usd": 0 
+    }
+  ]
+}
