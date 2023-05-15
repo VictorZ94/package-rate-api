@@ -3,7 +3,7 @@
   "country": "COL",
   "reference": "Unidad de valor tributario",
   "category": "taxes",
-  "UVT": [
+  "uvt": [
     {
       "year": 2015,
       "value": 27485
